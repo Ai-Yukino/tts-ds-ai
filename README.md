@@ -2,6 +2,12 @@
 
 ---
 
-Extra material for the data science courses I teach at TTS ([website](https://www.techtalentsouth.com/), [LinkedIn](https://www.linkedin.com/company/tech-talent-south/)) organized by date
+Material I designed for the data science courses I teach at TTS ([website](https://www.techtalentsouth.com/), [LinkedIn](https://www.linkedin.com/company/tech-talent-south/))
 
 Also see my [YouTube channel](https://www.youtube.com/channel/UCpWeXKKarcHoy5c1LvjSQMg)
+
+## ❄ Contents
+
+### `/hello`
+
+Various "Hello World!" assignment/in-lecture labs for installing and using software
