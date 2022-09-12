@@ -10,4 +10,4 @@ Also see my [YouTube channel](https://www.youtube.com/channel/UCpWeXKKarcHoy5c1L
 
 ### `/hello`
 
-Various "Hello World!" assignment/in-lecture labs for installing and using software
+Various "Hello World!" assignments/in-lecture labs for installing and using software
