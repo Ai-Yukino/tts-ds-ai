@@ -2,9 +2,9 @@
 
 ---
 
-Material I designed for the data science courses I teach at TTS ([website](https://www.techtalentsouth.com/), [LinkedIn](https://www.linkedin.com/company/tech-talent-south/))
+Additional class materials I created to update the data science curriculum for TTS ([website](https://www.techtalentsouth.com/), [LinkedIn](https://www.linkedin.com/company/tech-talent-south/))
 
-Also see my [YouTube channel](https://www.youtube.com/channel/UCpWeXKKarcHoy5c1LvjSQMg)
+Also see my [YouTube channel](https://www.youtube.com/channel/UCpWeXKKarcHoy5c1LvjSQMg) for, e.g. example homework/lab solutions
 
 ## ❄ Contents
 
