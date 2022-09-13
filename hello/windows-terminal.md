@@ -25,3 +25,7 @@ Submit a zip folder of both screenshots in step (5).
 ## 🌸 References
 
 - [Install and get started setting up Windows Terminal | Microsoft docs](https://docs.microsoft.com/en-us/windows/terminal/install)
+
+## ❄ Sample solution video
+
+See this [video](https://www.youtube.com/watch?v=VcAYdC8Cxnw) for a sample solution if you get stuck.
