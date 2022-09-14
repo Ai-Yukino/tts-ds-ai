@@ -39,6 +39,6 @@ Upload `.yml` file of conda environment with the latest version of python
 - [Mamba | Mamba docs](https://mamba.readthedocs.io/en/latest/index.html)
 - [The Good Research Code Handbook | goodresearch.dev](https://goodresearch.dev/index.html)
 
-## Sample solution video
+## ❄ Sample solution video
 
 TBA
