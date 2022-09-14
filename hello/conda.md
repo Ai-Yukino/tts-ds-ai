@@ -23,7 +23,7 @@ We will
 
 ## 🌸 Submission
 
-Upload a `.yml` config file of your conda environment with the latest version of python
+A `.yml` config file of your conda environment with the latest version of python
 
 ## ❄ Tips
 
