@@ -12,7 +12,7 @@
 
 ## 🌸 Submission
 
-Submit a zip folder of both screenshots in step (5).
+A zip folder of both screenshots in step (5)
 
 ## ❄ Tips
 
