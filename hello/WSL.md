@@ -8,7 +8,7 @@ We're going to
 - find the `.bashrc` file, and
 - take a screenshot of the contents of the `.bashrc` file.
 
-## Instructions
+## 🌸 Instructions
 
 1) Install Windows Terminal following these [instructions](https://github.com/Ai-Yukino/tts-ds-ai/blob/main/hello/windows-terminal.md).
 2) Install this [Windows update](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
@@ -24,14 +24,14 @@ We're going to
 12) Open `.bashrc` in your prefered Windows text editor.
 13) Take a screenshot of the `.bashrc` file in your text editor.
 
-## Submission
+## ❄ Submission
 
 A screenshot of your `.bashrc` file in the home directory of you Ubuntu virtual OS
 
-## References
+## 🌸 References
 
 - [Install Linux on Windows with WSL | Microsoft docs](https://docs.microsoft.com/en-us/windows/wsl/install)
 
-## Sample solution video
+## ❄ Sample solution video
 
 TBA
