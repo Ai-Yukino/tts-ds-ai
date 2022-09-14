@@ -1,6 +1,6 @@
 # `conda.md`
 
-## Instructions
+## ❄ Instructions
 
 We will
 
@@ -21,11 +21,11 @@ We will
 3) Create a conda virtual environment with the latest version of python
 4) Export a `.yml` config file of that environment
 
-## Submission
+## 🌸 Submission
 
 Upload `.yml` file of conda environment with the latest version of python
 
-## Tips
+## ❄ Tips
 
 - Run `conda create --name tts-ds` to create an empty conda virtual environment named "tts-ds". You can replace "tts-ds" with whatever name you prefer.
 - Run `conda activate base` to activate the `base` environment. You can replace `base` to be the name of whatever environment you want to activate as long as you have created it in your local machine.
@@ -33,7 +33,7 @@ Upload `.yml` file of conda environment with the latest version of python
 - Run `conda install python=3.10.2` to install python version "3.10.2".
 - Run `conda env export --from-history > env.yml` to export a config file named `env.yml`.
 
-## References
+## 🌸 References
 
 - [Miniconda | conda docs](https://docs.conda.io/en/latest/miniconda.html)
 - [Mamba | Mamba docs](https://mamba.readthedocs.io/en/latest/index.html)
