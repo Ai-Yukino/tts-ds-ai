@@ -27,6 +27,11 @@ Upload `.yml` file of conda environment with the latest version of python
 
 ## Tips
 
+- Run `conda create --name tts-ds` to create an empty conda virtual environment named "tts-ds". You can replace "tts-ds" with whatever name you prefer.
+- Run `conda activate base` to activate the `base` environment. You can replace `base` to be the name of whatever environment you want to activate as long as you have created it in your local machine.
+- Run `conda search python` to see all the available versions of python you can install
+- Run `conda install python=3.10.2` to install python version "3.10.2".
+
 ## References
 
 - [Miniconda | conda docs](https://docs.conda.io/en/latest/miniconda.html)
