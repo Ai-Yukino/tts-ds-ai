@@ -10,4 +10,18 @@ Also see my [YouTube channel](https://www.youtube.com/channel/UCpWeXKKarcHoy5c1L
 
 ### `/hello`
 
-Various "Hello World!" assignments/in-lecture labs for installing and using software
+Various "Hello World!" software installation labs for installing and using software
+
+The order to do these labs is
+
+- `windows-terminal.md` (if you use Windows)
+- `WSL.md` (if you use Windows)
+- `conda.md`
+- `git.md`
+- `ssh-github.md`
+
+This software suite was inspired by TTS's data science curriculum as well as [goodresearch.dev](https://goodresearch.dev/setup.html)'s modern data science workflow for python[^1].
+
+## 🌸 References
+
+[^1]: [Set up your project | goodresearch.dev](https://goodresearch.dev/setup.html)
