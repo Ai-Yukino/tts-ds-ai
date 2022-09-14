@@ -26,7 +26,7 @@ We're going to
 
 ## ❄ Submission
 
-A screenshot of your `.bashrc` file in the home directory of you Ubuntu virtual OS
+A screenshot of your `.bashrc` file opened with a Windows text editor
 
 ## 🌸 References
 
