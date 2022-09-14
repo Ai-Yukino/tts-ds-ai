@@ -33,6 +33,7 @@ A screenshot of your `.bashrc` file opened with a Windows text editor
 ## 🌸 References
 
 - [Install Linux on Windows with WSL | Microsoft docs](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [Manual installation steps for older versions of WSL](https://docs.microsoft.com/en-us/windows/wsl/install-manual)
 
 ## ❄ Sample solution video
 
