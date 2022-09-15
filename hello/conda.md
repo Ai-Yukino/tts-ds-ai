@@ -5,7 +5,6 @@
 We will
 
 - Install Miniconda
-- Use Conda to install Mamba
 - Create a conda virtual environment with the latest version of python
 - Export a `.yml` config file of that environment
 
@@ -18,7 +17,6 @@ We will
       - Follow the linux instructions and install Miniconda on your Ubuntu virtual OS
         - Make sure to download the latest Linux Miniconda installer [here](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links)
         - You can download the installation files by running `wget "path-to-file"` or `curl "path-to-file"`
-2) Install Mamba following the instructions [here](https://mamba.readthedocs.io/en/latest/installation.html#existing-conda-install) in the "Existing conda install" section
 3) Create a conda virtual environment with the latest version of python
 4) Export a `.yml` config file of that environment
 
