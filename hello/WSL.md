@@ -41,4 +41,4 @@ A screenshot of your `.bashrc` file opened with a Windows text editor
 
 ## ❄ Sample solution video
 
-TBA
+See this [video](https://www.youtube.com/watch?v=Tu3BL73aS6Y) if you get stuck
