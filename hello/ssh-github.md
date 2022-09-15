@@ -13,10 +13,22 @@
 ---
 5) Add the SSH keys to your GitHub account following these [instructions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
     - Windows users should follow the linux instructions in their WSL terminal
+6) Take a screenshot after you finish adding the keys
+7) Edit the screenshot to censor the key entries
+---
+6) Open your terminal
+7) Run `git config --global user.name "Your Name"` where "Your Name" is your GitHub username
+8) Run `git config --global user.email commit@email.com` where "commit@email.com" is your commit email from step (2) of these instructions.
+    - Do not put quotes around your email in the above command!
+9) Run `git config --edit --global` to view your global `.gitconfig` file in vim in your terminal
+10) Take a screenshot showing the username and email you added
+    - If you are a Windows user using WSL, then you need to click outside the terminal to take a screenshot
+11) Exit vim by entering `:q`
 
 ## 🌸 Submission
 
-TBA
+- screenshot of your [SSH and GPG keys page](https://github.com/settings/keys) **with your keys blurred or covered** (for example, you can draw a rectangle over the key entries using ms paint or similar software on your machine)
+- screenshot of your global `.gitconfig` file **with your email blurred or covered** (for example, you can draw a rectangle over the key entries using ms paint or similar software on your machine)
 
 ## ❄ References
 
