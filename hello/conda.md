@@ -40,10 +40,6 @@ A `.yml` config file of your conda environment with the latest version of python
 - [Cheat sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [Command reference](https://docs.conda.io/projects/conda/en/latest/commands.html)
 
-### Mamba
-
-- [Mamba docs](https://mamba.readthedocs.io/en/latest/index.html)
-
 ### Other
 
 - [The Good Research Code Handbook | goodresearch.dev](https://goodresearch.dev/index.html)
