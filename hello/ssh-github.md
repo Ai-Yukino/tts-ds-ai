@@ -28,7 +28,7 @@
 ## 🌸 Submission
 
 - screenshot of your [SSH and GPG keys page](https://github.com/settings/keys) **with your entries blurred or covered** (for example, you can draw a rectangle over the key entries using ms paint or similar software on your machine)
-- screenshot of your global `.gitconfig` file **with your email blurred or covered** (for example, you can draw a rectangle over the key entries using ms paint or similar software on your machine)
+- screenshot of your global `.gitconfig` file **with your email blurred or covered** (for example, you can draw a rectangle over email using ms paint or similar software on your machine)
 
 ## ❄ References
 
