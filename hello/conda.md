@@ -16,6 +16,7 @@ We will
       - Install Windows Terminal following these [instructions](https://github.com/Ai-Yukino/tts-ds-ai/blob/main/hello/windows-terminal.md)
       - Install WSL with the "Ubuntu" distribution following these [instructions](https://github.com/Ai-Yukino/tts-ds-ai/blob/main/hello/WSL.md)
       - Follow the linux instructions and install Miniconda on your Ubuntu virtual OS
+        - Make sure to download the latest Linux Miniconda installer [here](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links)
         - You can download the installation files by running `wget "path-to-file"` or `curl "path-to-file"`
 2) Install Mamba following the instructions [here](https://mamba.readthedocs.io/en/latest/installation.html#existing-conda-install)
 3) Create a conda virtual environment with the latest version of python
