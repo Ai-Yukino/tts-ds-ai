@@ -49,3 +49,5 @@ Your repo should still be cloned successfully though.
 ## ❄ References
 
 - [Connecting to GitHub with SSH | GitHub docs](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+- [How to have 2 or more GitHub accounts on one machine (Windows) | Linh Nguyen My | Medium](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
+    - View in private browsing if Medium is blocking you
