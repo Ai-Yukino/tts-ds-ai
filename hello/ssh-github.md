@@ -28,21 +28,23 @@
 
 ## 🌸 FAQ
 
-**Question**: What if I see an error message like this when trying to clone a repo after following all these steps?
+### What if I see an error message like this when trying to clone a repo after following all these steps?
 
 > The authenticity of host 'github.com (140.82.112.4)' can't be established.  
 > ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.  
 > Are you sure you want to continue connecting (yes/no)?  
 
-**Answer**: Double-check if the key fingerprint matches GitHub's key fingerprints [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints). If so, then type "yes" and git should finishing cloning the repo for you with some message like this:
+---
+
+Double-check if the key fingerprint matches GitHub's key fingerprints [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/githubs-ssh-key-fingerprints). If so, then type "yes" and git should finishing cloning the repo for you with some message like this:
 
 > Warning: Permanently added 'github.com,140.82.112.4' (ECDSA) to the list of known hosts.
 
 Your repo should still be cloned successfully though.
 
-**Question**: Why does git ask me for my username after I initialize a new repository?
+### Why does git ask me for my username after I initialize a new repository?
 
-**Answer**: Because we are using ssh as our credentials, you should also try to use "ssh syntax" whenever possible. For example, you should run
+Because we are using ssh as our credentials, you should also try to use "ssh syntax" whenever possible. For example, you should run
 
 ```
 git add remote origin git@github.com:your-username/your-repo-name
