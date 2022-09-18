@@ -41,6 +41,22 @@
 
 Your repo should still be cloned successfully though.
 
+**Question**: Why does git ask me for my username after I initialize a new repository?
+
+**Answer**: Because we are using ssh as our credentials, you should also try to use "ssh syntax" whenever possible. For example, you should run
+
+```
+git add remote origin git@github.com:your-username/your-repo-name
+```
+
+instead of
+
+```
+git add remote origin https://github.com/your-username/your-repo-name
+```
+
+Also don't forgot to do step (9) in the instructions so that git knows where to find your private ssh key!
+
 ## 🌸 Submission
 
 - screenshot of your [SSH and GPG keys page](https://github.com/settings/keys) **with your entries blurred or covered** (for example, you can draw a rectangle over the key entries using ms paint or similar software on your machine)
