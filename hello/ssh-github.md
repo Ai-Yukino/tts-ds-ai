@@ -20,7 +20,7 @@
 10) Run `git config --global user.name "Your Name"` where "Your Name" is your GitHub username
 11) Run `git config --global user.email commit@email.com` where "commit@email.com" is your commit email from step (2) of these instructions.
     - Do not put quotes around your email in the above command!
-12) Run `git config --global core.sshCommand = ssh -i ~/.ssh/path-to-your-private-key` where `path-to-your-private-key` may look something like `~/.ssh/id_ed25519` if you accepted the default file name in step (5).
+12) Run `git config --global core.sshCommand "ssh -i path-to-your-private-key"` where `path-to-your-private-key` may look something like `~/.ssh/id_ed25519` if you accepted the default file name in step (5).
 13) Run `git config --edit --global` to view your global `.gitconfig` file in vim in your terminal
 14) Take a screenshot showing the username and email you added
     - If you are a Windows user using WSL, then you need to click outside the terminal to take a screenshot
