@@ -24,4 +24,5 @@ This software suite was inspired by TTS's data science curriculum as well as [go
 
 ## 🌸 References
 
-[^1]: [Set up your project | goodresearch.dev](https://goodresearch.dev/setup.html)
+[^1]: [Set up your project | goodresearch.dev | Patrick Mineault
+](https://goodresearch.dev/setup.html)
