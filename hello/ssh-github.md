@@ -47,13 +47,13 @@ Your repo should still be cloned successfully though.
 Because we are using ssh as our credentials, you should also try to use "ssh syntax" whenever possible. For example, you should run
 
 ```
-git add remote origin git@github.com:your-username/your-repo-name
+git remote add origin git@github.com:your-username/your-repo-name
 ```
 
 instead of
 
 ```
-git add remote origin https://github.com/your-username/your-repo-name
+git remote add origin https://github.com/your-username/your-repo-name
 ```
 
 Also don't forgot to do step (9) in the instructions so that git knows where to find your private ssh key!
